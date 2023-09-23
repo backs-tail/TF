@@ -1,4 +1,21 @@
 .gh {
   background-image: url("../images/360-F-504552281-uuSQpxn3Je48g622BRRGQjL2YEFBhmu0-2.jpg")
 }
+.xce {
+  mix-blend-mode: hard-light;
+  opacity: 1
+}
+.ob {
+  opacity: .71;
+  mix-blend-mode: difference;
+  box-shadow: #9b0a0a 6px 8px 5px 5px;
+  text-shadow: #000 0 0 0;
+  filter: brightness(1) blur(60px)
+}
+.jj {
+  filter: drop-shadow(5px 5px 1px rgba(182,230,32,1));
+  mix-blend-mode: color-burn;
+  transform: scale(1.2,1.3);
+  opacity: .4
+}
 
